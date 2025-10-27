@@ -1,0 +1,346 @@
+Team,made_tournament
+Air Force,False
+Akron,True
+Alabama,False
+Alabama A&M,False
+Alabama State,True
+Albany (NY),False
+Alcorn State,False
+American,False
+Appalachian State,False
+Arizona,True
+Arizona State,False
+Arkansas,False
+Arkansas State,False
+Arkansas-Pine Bluff,False
+Army,False
+Auburn,False
+Austin Peay,False
+Ball State,False
+Baylor,False
+Belmont,True
+Bethune-Cookman,False
+Binghamton,False
+Boise State,False
+Boston College,False
+Boston University,True
+Bowling Green,False
+Bradley,False
+Brigham Young,True
+Brown,False
+Bryant,False
+Bucknell,True
+Buffalo,False
+Butler,True
+Cal Poly,False
+Cal State Bakersfield,False
+Cal State Fullerton,False
+Cal State Northridge,False
+California,False
+Campbell,False
+Canisius,False
+Centenary (LA),False
+Central Arkansas,False
+Central Connecticut State,False
+Central Michigan,False
+Charleston Southern,False
+Charlotte,False
+Chattanooga,False
+Chicago State,False
+Cincinnati,True
+Clemson,True
+Cleveland State,False
+Coastal Carolina,False
+Colgate,False
+College of Charleston,False
+Colorado,False
+Colorado State,False
+Columbia,False
+Connecticut,True
+Coppin State,False
+Cornell,False
+Creighton,False
+Dartmouth,False
+Davidson,False
+Dayton,False
+Delaware,False
+Delaware State,False
+Denver,False
+DePaul,False
+Detroit Mercy,False
+Drake,False
+Drexel,False
+Duke,True
+Duquesne,False
+East Carolina,False
+East Tennessee State,False
+Eastern Illinois,False
+Eastern Kentucky,False
+Eastern Michigan,False
+Eastern Washington,False
+Elon,False
+Evansville,False
+Fairfield,False
+FDU,False
+Florida,True
+Florida A&M,False
+Florida Atlantic,False
+Florida Gulf Coast,False
+Florida International,False
+Florida State,True
+Fordham,False
+Fresno State,False
+Furman,False
+Gardner-Webb,False
+George Mason,True
+George Washington,False
+Georgetown,True
+Georgia,True
+Georgia Southern,False
+Georgia State,False
+Georgia Tech,False
+Gonzaga,True
+Grambling,False
+Green Bay,False
+Hampton,True
+Hartford,False
+Harvard,False
+Hawaii,False
+High Point,False
+Hofstra,False
+Holy Cross,False
+Houston,False
+Houston Christian,False
+Howard,False
+Idaho,False
+Idaho State,False
+Illinois,True
+Illinois State,False
+Illinois-Chicago,False
+Indiana,False
+Indiana State,True
+Iona,False
+Iowa,False
+Iowa State,False
+IU Indy,False
+Jackson State,False
+Jacksonville,False
+Jacksonville State,False
+James Madison,False
+Kansas,True
+Kansas City,False
+Kansas State,True
+Kennesaw State,False
+Kent State,False
+Kentucky,True
+La Salle,False
+Lafayette,False
+Lamar,False
+Lehigh,False
+Liberty,False
+Lipscomb,False
+Little Rock,True
+Long Beach State,False
+Long Island University,True
+Longwood,False
+Louisiana,False
+Louisiana State,False
+Louisiana Tech,False
+Louisiana-Monroe,False
+Louisville,True
+Loyola (IL),False
+Loyola (MD),False
+Loyola Marymount,False
+Maine,False
+Manhattan,False
+Marist,False
+Marquette,True
+Marshall,False
+Maryland,False
+Maryland-Baltimore County,False
+Maryland-Eastern Shore,False
+Massachusetts,False
+McNeese State,False
+Memphis,True
+Mercer,False
+Miami (FL),False
+Miami (OH),False
+Michigan,True
+Michigan State,True
+Middle Tennessee,False
+Milwaukee,False
+Minnesota,False
+Mississippi,False
+Mississippi State,False
+Mississippi Valley State,False
+Missouri,True
+Missouri State,False
+Monmouth,False
+Montana,False
+Montana State,False
+Morehead State,True
+Morgan State,False
+Mount St. Mary's,False
+Murray State,False
+Navy,False
+NC State,False
+Nebraska,False
+Nevada,False
+Nevada-Las Vegas,True
+New Hampshire,False
+New Mexico,False
+New Mexico State,False
+Niagara,False
+Nicholls State,False
+NJIT,False
+Norfolk State,False
+North Carolina,True
+North Carolina A&T,False
+North Carolina Central,False
+North Dakota,False
+North Dakota State,False
+North Florida,False
+North Texas,False
+Northeastern,False
+Northern Arizona,False
+Northern Colorado,True
+Northern Illinois,False
+Northern Iowa,False
+Northwestern,False
+Northwestern State,False
+Notre Dame,True
+Oakland,True
+Ohio,False
+Ohio State,True
+Oklahoma,False
+Oklahoma State,False
+Old Dominion,True
+Oral Roberts,False
+Oregon,False
+Oregon State,False
+Pacific,False
+Penn State,True
+Pennsylvania,False
+Pepperdine,False
+Pittsburgh,True
+Portland,False
+Portland State,False
+Prairie View,False
+Presbyterian,False
+Princeton,True
+Providence,False
+Purdue,True
+Purdue Fort Wayne,False
+Quinnipiac,False
+Radford,False
+Rhode Island,False
+Rice,False
+Richmond,True
+Rider,False
+Robert Morris,False
+Rutgers,False
+Sacramento State,False
+Sacred Heart,False
+Saint Francis (PA),False
+Saint Joseph's,False
+Saint Louis,False
+Saint Mary's (CA),False
+Saint Peter's,True
+Sam Houston,False
+Samford,False
+San Diego,False
+San Diego State,True
+San Francisco,False
+San Jose State,False
+Santa Clara,False
+Savannah State,False
+Seattle,False
+Seton Hall,False
+Siena,False
+South Alabama,False
+South Carolina,False
+South Carolina State,False
+South Carolina Upstate,False
+South Dakota,False
+South Dakota State,False
+South Florida,False
+Southeast Missouri State,False
+Southeastern Louisiana,False
+Southern,False
+Southern California,True
+Southern Illinois,False
+SIU Edwardsville,False
+Southern Methodist,False
+Southern Mississippi,False
+Southern Utah,False
+St. Bonaventure,False
+St. Francis (NY),False
+St. John's (NY),True
+Stanford,False
+Stephen F. Austin,False
+Stetson,False
+Stony Brook,False
+Syracuse,True
+TCU,False
+Temple,True
+Tennessee,True
+Tennessee State,False
+Tennessee Tech,False
+Tennessee-Martin,False
+Texas,True
+Texas A&M,True
+Texas A&M-Corpus Christi,False
+Texas Southern,False
+Texas State,False
+Texas Tech,False
+Texas-Rio Grande Valley,False
+The Citadel,False
+Toledo,False
+Towson,False
+Troy,False
+Tulane,False
+Tulsa,False
+UAB,True
+UC Davis,False
+UC Irvine,False
+UC Riverside,False
+UC Santa Barbara,True
+UCF,False
+UCLA,True
+UNC Asheville,True
+UNC Greensboro,False
+UNC Wilmington,False
+UT Arlington,False
+Utah,False
+Utah State,True
+Utah Valley,False
+UTEP,False
+UTSA,True
+Valparaiso,False
+Vanderbilt,True
+Vermont,False
+Villanova,True
+Virginia,False
+Virginia Commonwealth,True
+VMI,False
+Virginia Tech,False
+Wagner,False
+Wake Forest,False
+Washington,True
+Washington State,False
+Weber State,False
+West Virginia,True
+Western Carolina,False
+Western Illinois,False
+Western Kentucky,False
+Western Michigan,False
+Wichita State,False
+William & Mary,False
+Winthrop,False
+Wisconsin,True
+Wofford,True
+Wright State,False
+Wyoming,False
+Xavier,True
+Yale,False
+Youngstown State,False
