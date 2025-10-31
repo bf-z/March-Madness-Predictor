@@ -7,3 +7,4 @@
 - Add Validation to deterimine the optimal hyperparameters for each model
 - Build out a way to create one bracket at the start of a tournament
 - Finish some data cleaning
+- Align evaluation ground truth (national rank vs. betting odds)
