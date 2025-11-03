@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Air Force,2005,47.9,47.1,80.0,24,3,14,9,4,12,0,12,0,0,0,17,253172464,2006,2,2005-11-13,2005-11-13 20:00:00+00:00,62.0,True,23.0,48.0,8.0,10.0,8.0,17.0,Northern Arizona,49.0,18.0,away,2464.0,0,0,1,23.0,48.0,8.0,17.0,8.0,10.0,19.0,51.0,37.3,2.0,6.0,33.3,9.0,11.0,81.8,14,43,7,3,3,20,16
 Air Force,2005,49.0,42.9,93.8,20,6,18,11,0,18,0,18,0,0,0,25,253190264,2006,2,2005-11-15,2005-11-16 04:00:00+00:00,74.0,False,25.0,51.0,15.0,16.0,9.0,21.0,Washington,85.0,6.0,away,264.0,0,0,0,25.0,51.0,9.0,21.0,15.0,16.0,32.0,60.0,53.3,3.0,12.0,25.0,18.0,25.0,72.0,18,40,12,8,5,18,16
@@ -9315,3 +9316,8 @@ Youngstown State,2754,40.3,31.0,90.0,40,17,18,5,0,10,0,10,0,0,0,17,260492099,200
 Youngstown State,2754,50.0,31.6,66.7,34,12,10,1,2,16,0,16,0,0,0,19,260532086,2006,2,2006-02-22,2006-02-23 00:00:00+00:00,64.0,False,24.0,48.0,10.0,15.0,6.0,19.0,Butler,72.0,0.0,away,2086.0,0,0,0,24.0,48.0,6.0,19.0,10.0,15.0,24.0,50.0,48.0,10.0,23.0,43.5,14.0,24.0,58.3,10,26,15,11,3,6,15
 Youngstown State,2754,44.8,34.8,84.2,42,11,17,5,2,11,0,11,1,1,0,27,260562754,2006,2,2006-02-25,2006-02-26 00:05:00+00:00,84.0,False,30.0,67.0,16.0,19.0,8.0,23.0,Loyola (IL),87.0,3.0,home,2350.0,0,1,0,30.0,67.0,8.0,23.0,16.0,19.0,24.0,63.0,38.1,7.0,20.0,35.0,32.0,42.0,76.2,15,49,13,8,5,11,21
 Youngstown State,2754,39.0,39.1,54.5,25,12,10,8,5,11,0,11,0,0,0,21,260592350,2006,2,2006-02-28,2006-03-01 01:00:00+00:00,61.0,False,23.0,59.0,6.0,11.0,9.0,23.0,Loyola (IL),76.0,3.0,away,2350.0,0,0,0,23.0,59.0,9.0,23.0,6.0,11.0,23.0,40.0,57.5,6.0,12.0,50.0,24.0,30.0,80.0,6,35,9,3,3,16,16
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b15c072005f6063d2647d9b011830d45d4fb082262918142347605a37d8e1ef
+size 2653315
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

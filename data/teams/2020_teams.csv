@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,made_tournament
 Abilene Christian,True
 Air Force,False
@@ -346,3 +347,8 @@ Wright State,False
 Wyoming,False
 Xavier,False
 Youngstown State,False
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:caea7b69a6f6b1d76409846aaa0c9c243c7a9ea75f134c9e57048956dacab12c
+size 6655
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

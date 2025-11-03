@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Abilene Christian,2000,38.6,19.0,47.1,29,8,11,9,6,12,2,12,0,0,0,24,401371352,2022,2,2021-11-10,,56.0,False,22.0,57.0,8.0,17.0,4.0,21.0,Utah,70.0,0.0,home,254.0,0,1,0,22.0,57.0,4.0,21.0,8.0,17.0,24.0,62.0,38.7,7.0,23.0,30.4,15.0,23.0,65.2,22,56,12,5,3,20,22
 Abilene Christian,2000,43.8,38.5,46.2,38,16,22,13,0,16,0,16,0,0,0,23,401371358,2022,2,2021-11-13,,80.0,False,32.0,73.0,6.0,13.0,10.0,26.0,Texas A&M,81.0,6.0,home,245.0,0,1,0,32.0,73.0,10.0,26.0,6.0,13.0,24.0,54.0,44.4,9.0,21.0,42.9,24.0,33.0,72.7,11,40,14,8,6,20,15
@@ -10953,3 +10954,8 @@ Youngstown State,2754,44.2,34.6,60.0,25,7,16,6,2,15,2,15,0,0,0,11,401368351,2022
 Youngstown State,2754,37.1,28.6,72.2,37,17,10,8,3,9,0,9,0,0,0,22,401405858,2022,2,2022-03-02,,73.0,False,26.0,70.0,13.0,18.0,8.0,28.0,Robert Morris,77.0,0.0,away,2523.0,0,0,0,26.0,70.0,8.0,28.0,13.0,18.0,28.0,52.0,53.8,4.0,13.0,30.8,17.0,25.0,68.0,8,36,12,6,7,14,18
 Youngstown State,2754,38.6,27.8,84.0,36,11,11,6,3,14,1,14,0,0,0,16,401422725,2022,3,2022-03-17,,70.0,True,22.0,57.0,21.0,25.0,5.0,18.0,Morgan State,65.0,16.0,away,2415.0,1,0,1,22.0,57.0,5.0,18.0,21.0,25.0,25.0,63.0,39.7,0.0,10.0,0.0,15.0,19.0,78.9,11,35,10,8,3,12,22
 Youngstown State,2754,45.1,27.3,90.5,30,5,10,6,2,14,2,14,0,0,0,24,401423831,2022,3,2022-03-24,,71.0,False,23.0,51.0,19.0,21.0,6.0,22.0,Fresno State,80.0,10.0,home,278.0,1,1,0,23.0,51.0,6.0,22.0,19.0,21.0,27.0,54.0,50.0,9.0,28.0,32.1,17.0,28.0,60.7,9,32,14,7,3,10,14
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aa1377f6d947b1a044aac6c81821ee77d3a98fa82ecb6a12de2668bff98edd2
+size 2842181
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

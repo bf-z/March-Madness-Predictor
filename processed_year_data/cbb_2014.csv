@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Abilene Christian,2000,34.9,28.0,75.0,33,11,9,3,1,10,0,10,0,0,0,26,400503860,2014,2,2013-11-09,,75.0,False,22.0,63.0,24.0,32.0,7.0,25.0,Duquesne,94.0,,home,2184.0,0,1,0,22.0,63.0,7.0,25.0,24.0,32.0,30.0,58.0,51.7,7.0,19.0,36.8,27.0,37.0,73.0,10,42,19,5,2,10,22
 Abilene Christian,2000,35.0,25.0,57.7,28,11,7,2,1,18,2,18,0,0,0,30,400503863,2014,2,2013-11-12,,47.0,False,14.0,40.0,15.0,26.0,4.0,16.0,St. Bonaventure,75.0,,home,179.0,0,1,0,14.0,40.0,4.0,16.0,15.0,26.0,25.0,56.0,44.6,2.0,14.0,14.3,23.0,32.0,71.9,18,40,15,7,7,9,23
@@ -10783,3 +10784,8 @@ Youngstown State,2754,48.9,47.4,84.6,28,4,18,1,1,12,0,12,0,0,0,15,400507143,2014
 Youngstown State,2754,37.1,44.0,66.7,44,19,16,5,2,10,0,10,0,0,0,18,400506643,2014,2,2014-02-26,,69.0,False,26.0,70.0,6.0,9.0,11.0,25.0,Cleveland State,70.0,,home,325.0,0,1,0,26.0,70.0,11.0,25.0,6.0,9.0,23.0,59.0,39.0,5.0,16.0,31.3,19.0,22.0,86.4,13,39,14,3,1,11,15
 Youngstown State,2754,53.4,47.1,57.9,26,5,18,2,1,7,0,7,0,0,0,21,400507148,2014,2,2014-03-02,,81.0,False,31.0,58.0,11.0,19.0,8.0,17.0,Oakland,87.0,,away,2473.0,0,0,0,31.0,58.0,8.0,17.0,11.0,19.0,30.0,55.0,54.5,10.0,22.0,45.5,17.0,23.0,73.9,5,32,21,3,0,8,15
 Youngstown State,2754,44.4,32.0,73.7,51,8,14,4,3,12,0,12,0,0,0,26,400541032,2014,2,2014-03-05,,92.0,False,28.0,63.0,28.0,38.0,8.0,25.0,Oakland,96.0,,home,2473.0,0,1,0,28.0,63.0,8.0,25.0,28.0,38.0,26.0,67.0,38.8,13.0,34.0,38.2,31.0,45.0,68.9,6,37,23,7,2,6,26
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:24df56d9137755fba267ba2619b7251a5df2221ba9e46ba0d32422d494d4bd88
+size 2766777
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

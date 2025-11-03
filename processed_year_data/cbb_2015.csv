@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Abilene Christian,2000,27.3,22.7,57.1,30,13,12,9,2,13,0,13,0,0,0,22,400586675,2015,2,2014-11-20,,39.0,False,15.0,55.0,4.0,7.0,5.0,22.0,Tulsa,65.0,,home,202.0,0,1,0,15.0,55.0,5.0,22.0,4.0,7.0,23.0,49.0,46.9,5.0,14.0,35.7,14.0,25.0,56.0,14,43,12,8,7,14,11
 Abilene Christian,2000,40.3,42.9,78.1,30,11,11,6,1,11,0,11,1,1,0,26,400591099,2015,2,2014-11-22,,81.0,False,25.0,62.0,25.0,32.0,6.0,14.0,Duquesne,102.0,,away,2184.0,0,0,0,25.0,62.0,6.0,14.0,25.0,32.0,34.0,57.0,59.6,12.0,23.0,52.2,22.0,34.0,64.7,9,40,13,6,5,15,27
@@ -10773,3 +10774,8 @@ Youngstown State,2754,46.8,27.8,61.8,17,8,12,10,1,14,0,14,0,0,0,23,400597765,201
 Youngstown State,2754,36.5,31.8,75.0,37,11,14,6,2,7,0,7,0,0,0,21,400597816,2015,2,2015-02-26,,71.0,False,23.0,63.0,18.0,24.0,7.0,22.0,Oakland,82.0,,home,2473.0,0,1,0,23.0,63.0,7.0,22.0,18.0,24.0,29.0,63.0,46.0,7.0,24.0,29.2,17.0,23.0,73.9,10,40,16,5,0,8,18
 Youngstown State,2754,36.6,23.1,84.2,38,15,15,8,2,9,0,9,0,0,0,16,400597806,2015,2,2015-03-01,,74.0,False,26.0,71.0,16.0,19.0,6.0,26.0,Milwaukee,82.0,,away,270.0,0,0,0,26.0,71.0,6.0,26.0,16.0,19.0,24.0,51.0,47.1,12.0,25.0,48.0,22.0,22.0,100.0,3,33,15,3,5,14,16
 Youngstown State,2754,49.1,20.0,69.2,29,7,15,6,4,14,0,14,0,0,0,20,400765394,2015,2,2015-03-04,,67.0,False,27.0,55.0,9.0,13.0,4.0,20.0,Detroit Mercy,77.0,,home,2174.0,0,1,0,27.0,55.0,4.0,20.0,9.0,13.0,27.0,57.0,47.4,6.0,17.0,35.3,17.0,22.0,77.3,10,33,11,6,9,10,13
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e2b9eda6bc89ea2f5395a65c9e18d309f7e8a8d93483dce19ce241ffe39130
+size 2759385
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

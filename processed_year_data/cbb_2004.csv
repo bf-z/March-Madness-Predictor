@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Cal Poly,13,36.1,18.2,70.0,39,10,12,8,5,14,1,14,1,1,0,20,233300013,2004,2,2003-11-26,2003-11-27 03:00:00+00:00,62.0,False,22.0,61.0,14.0,20.0,4.0,22.0,Colorado,73.0,,home,38.0,0,1,0,22.0,61.0,4.0,22.0,14.0,20.0,28.0,63.0,44.4,1.0,10.0,10.0,16.0,23.0,69.6,12,48,9,9,6,14,17
 Charlotte,2429,52.5,41.9,63.6,50,14,25,5,4,16,0,16,1,1,0,20,233300183,2004,2,2003-11-26,2003-11-27 00:00:00+00:00,96.0,True,31.0,59.0,21.0,33.0,13.0,31.0,Syracuse,92.0,,away,183.0,0,0,1,31.0,59.0,13.0,31.0,21.0,33.0,35.0,74.0,47.3,8.0,19.0,42.1,14.0,25.0,56.0,16,41,21,12,1,8,25
@@ -21,3 +22,8 @@ Syracuse,183,47.3,42.1,56.0,41,16,21,12,1,8,0,8,0,0,0,25,233300183,2004,2,2003-1
 Texas Tech,2641,49.1,0.0,69.2,39,8,10,12,5,9,0,9,0,0,0,18,233302641,2004,2,2003-11-26,2003-11-27 00:00:00+00:00,65.0,True,28.0,57.0,9.0,13.0,0.0,1.0,Utah,54.0,,home,254.0,0,1,1,28.0,57.0,0.0,1.0,9.0,13.0,24.0,50.0,48.0,3.0,10.0,30.0,3.0,14.0,21.4,8,37,15,4,0,18,18
 Troy,2653,42.1,41.4,75.0,29,12,11,4,3,12,0,12,0,0,0,15,233300099,2004,2,2003-11-26,2003-11-27 01:00:00+00:00,69.0,False,24.0,57.0,9.0,12.0,12.0,29.0,Louisiana State,78.0,,away,99.0,0,0,0,24.0,57.0,12.0,29.0,9.0,12.0,26.0,53.0,49.1,10.0,19.0,52.6,16.0,23.0,69.6,13,36,16,6,5,13,16
 Utah,254,48.0,30.0,21.4,37,8,15,4,0,18,1,18,0,0,0,18,233302641,2004,2,2003-11-26,2003-11-27 00:00:00+00:00,54.0,False,24.0,50.0,3.0,14.0,3.0,10.0,Texas Tech,65.0,,away,2641.0,0,0,0,24.0,50.0,3.0,10.0,3.0,14.0,28.0,57.0,49.1,0.0,1.0,0.0,9.0,13.0,69.2,8,39,10,12,5,9,18
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ebade08d06b40b5deac44ebcb59bfbcc890251fae4d77d00d49b1431b8fb8a0
+size 552
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Air Force,2005,55.8,21.4,72.2,41,8,25,15,1,23,0,23,0,0,0,25,313152005,2012,2,2011-11-12,,87.0,True,29.0,52.0,26.0,36.0,3.0,14.0,Army,71.0,16.0,away,349.0,0,0,1,29.0,52.0,3.0,14.0,26.0,36.0,23.0,58.0,39.7,6.0,29.0,20.7,19.0,26.0,73.1,7,28,13,11,0,24,29
 Air Force,2005,50.0,27.3,72.2,42,11,20,5,4,14,0,14,0,0,0,16,313162005,2012,2,2011-11-13,,75.0,True,28.0,56.0,13.0,18.0,6.0,22.0,VMI,65.0,19.0,away,2678.0,0,0,1,28.0,56.0,6.0,22.0,13.0,18.0,22.0,56.0,39.3,10.0,30.0,33.3,11.0,15.0,73.3,8,33,11,6,4,14,21
@@ -10573,3 +10574,8 @@ Youngstown State,2754,44.9,31.6,68.8,36,6,14,5,7,14,0,14,0,0,0,15,320542754,2012
 Youngstown State,2754,46.0,42.3,77.3,29,8,13,5,0,12,0,12,0,0,0,13,320562754,2012,2,2012-02-25,,74.0,False,23.0,50.0,17.0,22.0,11.0,26.0,Detroit Mercy,76.0,5.0,away,2174.0,0,0,0,23.0,50.0,11.0,26.0,17.0,22.0,29.0,51.0,56.9,7.0,16.0,43.8,11.0,14.0,78.6,6,26,18,5,4,11,24
 Youngstown State,2754,47.5,43.5,69.2,38,12,17,13,5,7,1,7,0,0,0,10,320592754,2012,2,2012-02-29,,77.0,True,29.0,61.0,9.0,13.0,10.0,23.0,Green Bay,60.0,19.0,away,2739.0,0,0,1,29.0,61.0,10.0,23.0,9.0,13.0,24.0,53.0,45.3,4.0,12.0,33.3,8.0,10.0,80.0,10,37,15,3,1,17,15
 Youngstown State,2754,54.7,30.0,54.5,27,7,16,4,2,15,0,15,1,1,0,20,320622174,2012,2,2012-03-02,,76.0,False,29.0,53.0,12.0,22.0,6.0,20.0,Detroit Mercy,93.0,0.0,home,2174.0,0,1,0,29.0,53.0,6.0,20.0,12.0,22.0,33.0,55.0,60.0,8.0,17.0,47.1,19.0,25.0,76.0,7,34,16,7,2,13,21
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:0932f3127da166cb59382a969fa6fc6680457c75976f02bef2ca68cd696bbcba
+size 2746272
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

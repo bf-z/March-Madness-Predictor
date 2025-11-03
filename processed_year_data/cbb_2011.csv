@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Air Force,2005,62.0,40.0,65.5,33,8,24,8,3,16,0,16,0,0,0,22,303242005,2011,2,2010-11-21,,87.0,True,31.0,50.0,19.0,29.0,6.0,15.0,Tennessee State,72.0,20.0,away,2634.0,0,0,1,31.0,50.0,6.0,15.0,19.0,29.0,21.0,57.0,36.8,9.0,35.0,25.7,21.0,23.0,91.3,13,34,12,7,2,15,24
 Air Force,2005,51.1,50.0,62.1,31,2,13,13,1,15,0,15,0,0,0,18,303282747,2011,2,2010-11-24,,72.0,True,24.0,47.0,18.0,29.0,6.0,12.0,Wofford,66.0,6.0,home,2747.0,0,1,1,24.0,47.0,6.0,12.0,18.0,29.0,23.0,68.0,33.8,8.0,25.0,32.0,12.0,21.0,57.1,24,55,13,8,3,19,21
@@ -10557,3 +10558,8 @@ Youngstown State,2754,50.8,40.7,57.1,32,4,24,10,4,6,0,6,0,0,0,11,310502754,2011,
 Youngstown State,2754,36.7,30.0,66.7,32,10,9,7,5,10,0,10,0,0,0,18,310552754,2011,2,2011-02-25,,60.0,False,22.0,60.0,10.0,15.0,6.0,20.0,Green Bay,71.0,6.0,away,2739.0,0,0,0,22.0,60.0,6.0,20.0,10.0,15.0,25.0,55.0,45.5,5.0,15.0,33.3,16.0,24.0,66.7,11,42,10,3,4,11,16
 Youngstown State,2754,46.3,36.0,66.7,40,10,20,6,3,13,0,13,1,1,0,26,310572754,2011,2,2011-02-26,,87.0,False,31.0,67.0,16.0,24.0,9.0,25.0,Milwaukee,94.0,5.0,away,270.0,0,0,0,31.0,67.0,9.0,25.0,16.0,24.0,28.0,63.0,44.4,13.0,32.0,40.6,25.0,34.0,73.5,11,41,17,5,1,12,21
 Youngstown State,2754,42.2,16.7,73.7,45,16,14,6,6,16,0,16,0,0,0,19,310602674,2011,2,2011-03-02,,71.0,False,27.0,64.0,14.0,19.0,3.0,18.0,Valparaiso,80.0,10.0,home,2674.0,0,1,0,27.0,64.0,3.0,18.0,14.0,19.0,30.0,62.0,48.4,3.0,13.0,23.1,17.0,22.0,77.3,11,38,18,8,3,12,17
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:5453b16e674b78286a23d3407b65238a90a7020e4deea48996d489ea5af3c2c3
+size 2742621
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

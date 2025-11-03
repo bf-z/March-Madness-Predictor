@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Abilene Christian,2000,47.8,33.3,55.2,34,3,8,8,2,14,0,14,0,0,0,21,400918719,2017,2,2016-11-18,,65.0,True,22.0,46.0,16.0,29.0,5.0,15.0,New Hampshire,57.0,26.0,home,160.0,0,1,1,22.0,46.0,5.0,15.0,16.0,29.0,21.0,60.0,35.0,5.0,24.0,20.8,10.0,17.0,58.8,13,42,6,3,0,18,25
 Abilene Christian,2000,56.3,15.4,50.0,26,5,16,8,4,12,0,12,0,0,0,17,400916685,2017,2,2016-11-23,,65.0,False,27.0,48.0,9.0,18.0,2.0,13.0,Charleston Southern,66.0,,away,2127.0,0,0,0,27.0,48.0,2.0,13.0,9.0,18.0,25.0,56.0,44.6,6.0,19.0,31.6,10.0,16.0,62.5,13,34,8,2,3,14,17
@@ -10751,3 +10752,8 @@ Youngstown State,2754,41.5,18.2,63.6,38,9,16,6,5,17,0,17,2,2,0,20,400918497,2017
 Youngstown State,2754,50.9,45.5,80.0,38,8,19,2,3,10,0,10,0,0,0,16,400944544,2017,2,2017-03-04,,84.0,True,29.0,57.0,16.0,20.0,10.0,22.0,Cleveland State,69.0,15.0,home,325.0,0,1,1,29.0,57.0,10.0,22.0,16.0,20.0,26.0,68.0,38.2,6.0,24.0,25.0,11.0,11.0,100.0,12,36,8,3,4,6,21
 Youngstown State,2754,44.2,43.8,66.7,45,15,14,6,0,10,0,10,0,0,0,19,400945421,2017,2,2017-03-04,,81.0,True,34.0,77.0,6.0,9.0,7.0,16.0,Oakland,80.0,10.0,home,2473.0,0,1,1,34.0,77.0,7.0,16.0,6.0,9.0,28.0,65.0,43.1,5.0,19.0,26.3,19.0,24.0,79.2,12,41,17,5,4,8,10
 Youngstown State,2754,44.6,44.4,57.1,36,11,13,6,3,12,0,12,0,0,0,15,400945730,2017,2,2017-03-07,,74.0,False,29.0,65.0,8.0,14.0,8.0,18.0,Northern Kentucky,84.0,1.0,home,94.0,0,1,0,29.0,65.0,8.0,18.0,8.0,14.0,31.0,62.0,50.0,13.0,27.0,48.1,9.0,12.0,75.0,9,37,11,6,2,11,16
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:47c98b4d8d157ebd410b4943ad64d41b157bbc21840a84bc8b422f8ed04f1356
+size 2796811
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

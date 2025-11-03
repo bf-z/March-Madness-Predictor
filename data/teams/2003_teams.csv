@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,made_tournament
 Air Force,True
 Akron,False
@@ -325,3 +326,8 @@ Wyoming,False
 Xavier,True
 Yale,False
 Youngstown State,False
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc241db57e77fc5133fe2bc1642b4697d9d79a68067f13146590a6c26f86a4ff
+size 6173
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

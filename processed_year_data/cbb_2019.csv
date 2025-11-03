@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Abilene Christian,2000,56.4,57.1,77.4,40,12,17,8,0,18,0,18,0,0,0,27,401088111,2019,2,2018-11-10,,94.0,True,31.0,55.0,24.0,31.0,8.0,14.0,Arkansas State,73.0,22.0,away,2032.0,0,0,1,31.0,55.0,8.0,14.0,24.0,31.0,26.0,59.0,44.1,6.0,17.0,35.3,15.0,24.0,62.5,11,29,13,6,2,16,24
 Abilene Christian,2000,44.9,41.7,81.3,26,5,16,5,5,9,0,9,0,0,0,15,401089013,2019,2,2018-11-16,,67.0,True,22.0,49.0,13.0,16.0,10.0,24.0,Denver,61.0,12.0,home,2172.0,0,1,1,22.0,49.0,10.0,24.0,13.0,16.0,25.0,51.0,49.0,9.0,15.0,60.0,2.0,11.0,18.2,10,33,11,1,4,15,18
@@ -11001,3 +11002,8 @@ Youngstown State,2754,44.8,29.2,71.4,26,13,12,6,5,11,0,11,0,0,0,23,401089941,201
 Youngstown State,2754,42.9,22.2,57.1,31,7,9,2,6,17,0,17,0,0,0,17,401089954,2019,2,2019-02-23,,54.0,False,21.0,49.0,8.0,14.0,4.0,18.0,Wright State,82.0,2.0,home,2750.0,0,1,0,21.0,49.0,4.0,18.0,8.0,14.0,30.0,61.0,49.2,9.0,21.0,42.9,13.0,16.0,81.3,9,32,18,9,1,7,16
 Youngstown State,2754,45.5,28.0,76.5,33,7,11,5,5,10,0,10,0,0,0,18,401088489,2019,2,2019-03-02,,80.0,False,30.0,66.0,13.0,17.0,7.0,25.0,Cleveland State,89.0,12.0,away,325.0,0,0,0,30.0,66.0,7.0,25.0,13.0,17.0,31.0,64.0,48.4,8.0,23.0,34.8,19.0,21.0,90.5,9,37,20,5,1,9,16
 Youngstown State,2754,46.4,42.4,60.0,32,8,22,6,2,11,0,11,0,0,0,30,401121813,2019,2,2019-03-07,,84.0,False,32.0,69.0,6.0,10.0,14.0,33.0,Oakland,88.0,2.0,home,2473.0,0,1,0,32.0,69.0,14.0,33.0,6.0,10.0,24.0,53.0,45.3,8.0,21.0,38.1,32.0,45.0,71.1,12,45,19,7,2,13,13
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:833d915c681b077cf3ac429a9583dfb4285195a561b40bef36eaadacc9a1b988
+size 2858311
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647

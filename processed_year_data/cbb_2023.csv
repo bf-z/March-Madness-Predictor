@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Team,Team_ID,FG%,3P%,FT%,TRB,ORB,AST,STL,BLK,turnovers,team_turnovers,TOV,technical_fouls,total_technical_fouls,flagrant_fouls,PF,Game_ID,Season,Season_Type,Date,Datetime,Team_Score,Team_Win,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,three_point_field_goals_made,three_point_field_goals_attempted,Opponent,Opp_Score,Largest_Lead,Site,opponent_id_combined,season_type_encoded,home_away_encoded,team_winner_encoded,FGM,FGA,3PM,3PA,FTM,FTA,oFGM,oFGA,oFG%,o3PM,o3PA,o3P%,oFTM,oFTA,oFT%,oORB,oTRB,oAST,oSTL,oBLK,oTOV,oPF
 Abilene Christian,2000,40.4,28.6,55.0,34,6,12,9,5,15,0,15,0,0,0,17,401493953,2023,2,2022-11-07,2022-11-08 01:00:00+00:00,65.0,True,23.0,57.0,11.0,20.0,8.0,28.0,Jackson State,56.0,20.0,home,2296.0,0,1,1,23.0,57.0,8.0,28.0,11.0,20.0,22.0,55.0,40.0,2.0,19.0,10.5,10.0,14.0,71.4,8,41,9,6,1,21,21
 Abilene Christian,2000,38.5,44.4,83.3,24,9,12,11,0,21,1,21,0,0,0,22,401483237,2023,2,2022-11-11,2022-11-12 01:00:00+00:00,58.0,False,20.0,52.0,10.0,12.0,8.0,18.0,Texas A&M,77.0,0.0,away,245.0,0,0,0,20.0,52.0,8.0,18.0,10.0,12.0,23.0,44.0,52.3,6.0,16.0,37.5,25.0,35.0,71.4,12,35,7,11,3,19,17
@@ -11307,3 +11308,8 @@ Youngstown State,2754,57.6,44.4,77.3,22,7,18,7,2,6,0,6,0,0,0,18,401470083,2023,2
 Youngstown State,2754,43.6,22.7,75.0,36,8,15,6,2,11,0,11,2,2,0,15,401514293,2023,2,2023-03-02,2023-03-03 01:00:00+00:00,71.0,True,24.0,55.0,18.0,24.0,5.0,22.0,Detroit Mercy,66.0,5.0,home,2174.0,0,1,1,24.0,55.0,5.0,22.0,18.0,24.0,24.0,68.0,35.3,6.0,27.0,22.2,12.0,14.0,85.7,17,42,11,5,3,13,21
 Youngstown State,2754,45.3,19.0,84.6,35,10,15,0,5,13,0,13,0,0,0,26,401514290,2023,2,2023-03-06,2023-03-07 00:00:00+00:00,63.0,False,24.0,53.0,11.0,13.0,4.0,21.0,Northern Kentucky,75.0,2.0,home,94.0,0,1,0,24.0,53.0,4.0,21.0,11.0,13.0,22.0,59.0,37.3,3.0,17.0,17.6,28.0,38.0,73.7,17,37,6,6,2,3,18
 Youngstown State,2754,35.5,28.6,85.7,34,10,10,6,5,8,0,8,0,0,0,17,401526880,2023,3,2023-03-15,2023-03-15 23:00:00+00:00,64.0,False,22.0,62.0,12.0,14.0,8.0,28.0,Oklahoma State,69.0,9.0,home,197.0,1,1,0,22.0,62.0,8.0,28.0,12.0,14.0,26.0,71.0,36.6,4.0,19.0,21.1,13.0,15.0,86.7,19,49,13,3,6,9,15
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:888f9b0a68c8c28a27292734b3d32ca3036fdebe04fb345465fc8e5ec2f1956d
+size 3217448
+>>>>>>> d324fb5973ca51770b7e84664f7d01d128acc647
