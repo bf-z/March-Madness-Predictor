@@ -621,3 +621,6 @@ else:
 print(f"\n🎯 OVERALL PERFORMANCE: {performance} (AUC = {auc:.3f})")
 print(f"   Baseline (random): 50% accuracy, 0.5 AUC")
 print(f"   Your model: {accuracy*100:.1f}% accuracy, {auc:.3f} AUC")
+
+# %% [markdown]
+# ## Bracket Prediction Function
