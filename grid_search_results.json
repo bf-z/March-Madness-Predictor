@@ -1,0 +1,144 @@
+{
+  "best_params": {
+    "latent_dim": 64,
+    "hidden_dim": 128,
+    "num_layers": 2,
+    "dropout": 0.2,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "max_prev_games": 20
+  },
+  "best_val_auc": 0.6473333333333333,
+  "top_10": [
+    {
+      "params": {
+        "latent_dim": 64,
+        "hidden_dim": 128,
+        "num_layers": 2,
+        "dropout": 0.2,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 20
+      },
+      "val_auc": 0.6473333333333333,
+      "val_acc": 0.625
+    },
+    {
+      "params": {
+        "latent_dim": 64,
+        "hidden_dim": 128,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 32,
+        "learning_rate": 0.0005,
+        "max_prev_games": 10
+      },
+      "val_auc": 0.6213333333333333,
+      "val_acc": 0.6
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 2,
+        "dropout": 0.4,
+        "batch_size": 32,
+        "learning_rate": 0.0005,
+        "max_prev_games": 20
+      },
+      "val_auc": 0.6206666666666666,
+      "val_acc": 0.575
+    },
+    {
+      "params": {
+        "latent_dim": 64,
+        "hidden_dim": 64,
+        "num_layers": 2,
+        "dropout": 0.3,
+        "batch_size": 32,
+        "learning_rate": 0.0005,
+        "max_prev_games": 15
+      },
+      "val_auc": 0.6133333333333333,
+      "val_acc": 0.55
+    },
+    {
+      "params": {
+        "latent_dim": 64,
+        "hidden_dim": 64,
+        "num_layers": 2,
+        "dropout": 0.3,
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "max_prev_games": 10
+      },
+      "val_auc": 0.61,
+      "val_acc": 0.525
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.4,
+        "batch_size": 64,
+        "learning_rate": 0.0005,
+        "max_prev_games": 20
+      },
+      "val_auc": 0.6093333333333333,
+      "val_acc": 0.6
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 128,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 20
+      },
+      "val_auc": 0.6073333333333334,
+      "val_acc": 0.5875
+    },
+    {
+      "params": {
+        "latent_dim": 64,
+        "hidden_dim": 128,
+        "num_layers": 2,
+        "dropout": 0.4,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 15
+      },
+      "val_auc": 0.6066666666666667,
+      "val_acc": 0.575
+    },
+    {
+      "params": {
+        "latent_dim": 64,
+        "hidden_dim": 128,
+        "num_layers": 3,
+        "dropout": 0.4,
+        "batch_size": 32,
+        "learning_rate": 0.0005,
+        "max_prev_games": 20
+      },
+      "val_auc": 0.6046666666666667,
+      "val_acc": 0.675
+    },
+    {
+      "params": {
+        "latent_dim": 64,
+        "hidden_dim": 128,
+        "num_layers": 2,
+        "dropout": 0.3,
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "max_prev_games": 20
+      },
+      "val_auc": 0.6026666666666666,
+      "val_acc": 0.625
+    }
+  ]
+}
