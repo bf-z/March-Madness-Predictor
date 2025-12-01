@@ -1,2 +1,4 @@
-TODO: 
-- Write a ReadME
+- This Folder is for downloading and submitting a zip file for our final evaluation.
+- This folder should contain one subfolder for each separate task we did
+  - As of now that is just the season and tournament based models
+- Each of these subfolders should contain all the code and data needed to build and evaluate the models within them 
