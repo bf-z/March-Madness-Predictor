@@ -1,144 +1,154 @@
 {
   "best_params": {
     "latent_dim": 32,
-    "hidden_dim": 128,
+    "hidden_dim": 64,
     "num_layers": 3,
-    "dropout": 0.5,
-    "batch_size": 64,
+    "dropout": 0.3,
+    "batch_size": 32,
     "learning_rate": 0.001,
     "max_prev_games": 5
   },
-  "best_val_auc": 0.6641269841269841,
+  "best_val_auc": 0,
   "top_10": [
     {
       "params": {
         "latent_dim": 32,
-        "hidden_dim": 128,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 5
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 15
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": -1
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "Trying to create tensor with negative dimension -1: [-1, 18]"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "max_prev_games": 5
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "max_prev_games": 15
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "max_prev_games": -1
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "Trying to create tensor with negative dimension -1: [-1, 18]"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.5,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 5
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.5,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 15
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.5,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": -1
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "Trying to create tensor with negative dimension -1: [-1, 18]"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
         "num_layers": 3,
         "dropout": 0.5,
         "batch_size": 64,
         "learning_rate": 0.001,
         "max_prev_games": 5
       },
-      "val_auc": 0.6641269841269841,
-      "val_acc": 0.6625
-    },
-    {
-      "params": {
-        "latent_dim": 32,
-        "hidden_dim": 128,
-        "num_layers": 2,
-        "dropout": 0.4,
-        "batch_size": 32,
-        "learning_rate": 0.0005,
-        "max_prev_games": 5
-      },
-      "val_auc": 0.6634920634920635,
-      "val_acc": 0.65
-    },
-    {
-      "params": {
-        "latent_dim": 64,
-        "hidden_dim": 64,
-        "num_layers": 2,
-        "dropout": 0.3,
-        "batch_size": 64,
-        "learning_rate": 0.0005,
-        "max_prev_games": 5
-      },
-      "val_auc": 0.660952380952381,
-      "val_acc": 0.675
-    },
-    {
-      "params": {
-        "latent_dim": 32,
-        "hidden_dim": 64,
-        "num_layers": 2,
-        "dropout": 0.5,
-        "batch_size": 64,
-        "learning_rate": 0.0005,
-        "max_prev_games": 15
-      },
-      "val_auc": 0.6577777777777777,
-      "val_acc": 0.675
-    },
-    {
-      "params": {
-        "latent_dim": 64,
-        "hidden_dim": 128,
-        "num_layers": 2,
-        "dropout": 0.4,
-        "batch_size": 32,
-        "learning_rate": 0.001,
-        "max_prev_games": 5
-      },
-      "val_auc": 0.6565079365079365,
-      "val_acc": 0.575
-    },
-    {
-      "params": {
-        "latent_dim": 64,
-        "hidden_dim": 64,
-        "num_layers": 2,
-        "dropout": 0.5,
-        "batch_size": 64,
-        "learning_rate": 0.001,
-        "max_prev_games": 5
-      },
-      "val_auc": 0.6546031746031746,
-      "val_acc": 0.65
-    },
-    {
-      "params": {
-        "latent_dim": 32,
-        "hidden_dim": 64,
-        "num_layers": 2,
-        "dropout": 0.5,
-        "batch_size": 32,
-        "learning_rate": 0.0005,
-        "max_prev_games": 5
-      },
-      "val_auc": 0.6526984126984127,
-      "val_acc": 0.6375
-    },
-    {
-      "params": {
-        "latent_dim": 64,
-        "hidden_dim": 128,
-        "num_layers": 2,
-        "dropout": 0.5,
-        "batch_size": 64,
-        "learning_rate": 0.001,
-        "max_prev_games": 5
-      },
-      "val_auc": 0.6520634920634921,
-      "val_acc": 0.65
-    },
-    {
-      "params": {
-        "latent_dim": 64,
-        "hidden_dim": 64,
-        "num_layers": 2,
-        "dropout": 0.4,
-        "batch_size": 64,
-        "learning_rate": 0.0005,
-        "max_prev_games": 5
-      },
-      "val_auc": 0.6514285714285715,
-      "val_acc": 0.6625
-    },
-    {
-      "params": {
-        "latent_dim": 32,
-        "hidden_dim": 128,
-        "num_layers": 2,
-        "dropout": 0.5,
-        "batch_size": 32,
-        "learning_rate": 0.001,
-        "max_prev_games": 15
-      },
-      "val_auc": 0.6507936507936508,
-      "val_acc": 0.6375
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
     }
   ]
 }
