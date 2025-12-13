@@ -1,0 +1,154 @@
+{
+  "best_params": {
+    "latent_dim": 32,
+    "hidden_dim": 64,
+    "num_layers": 3,
+    "dropout": 0.3,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "max_prev_games": 5
+  },
+  "best_val_auc": 0,
+  "top_10": [
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 5
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 15
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": -1
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "Trying to create tensor with negative dimension -1: [-1, 18]"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "max_prev_games": 5
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "max_prev_games": 15
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.3,
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "max_prev_games": -1
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "Trying to create tensor with negative dimension -1: [-1, 18]"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.5,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 5
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.5,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": 15
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.5,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "max_prev_games": -1
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "Trying to create tensor with negative dimension -1: [-1, 18]"
+    },
+    {
+      "params": {
+        "latent_dim": 32,
+        "hidden_dim": 64,
+        "num_layers": 3,
+        "dropout": 0.5,
+        "batch_size": 64,
+        "learning_rate": 0.001,
+        "max_prev_games": 5
+      },
+      "val_auc": 0,
+      "val_acc": 0,
+      "error": "too many values to unpack (expected 5)"
+    }
+  ]
+}
